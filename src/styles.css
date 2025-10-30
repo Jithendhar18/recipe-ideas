@@ -546,6 +546,16 @@ body[data-theme="dark"] .suggestions-list {
     font-size: 1.5rem;
   }
 
+    .meal-details-modal {
+      width: 90%;
+      max-width: 700px;
+      padding: 1.5rem;
+      border-radius: 16px;
+      overflow-y: auto;
+      max-height: 90vh;
+    }
+
+
   .ingredients-list {
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   }
