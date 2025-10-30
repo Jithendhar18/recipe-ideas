@@ -108,6 +108,7 @@ main {
 
 .hamburger {
   display: none;
+  font-size: x-large;
   background: none;
   border: none;
   color: #fff;
