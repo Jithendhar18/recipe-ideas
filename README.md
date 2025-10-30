@@ -6,7 +6,7 @@ Built with **React (Vite)**, **Framer Motion**, and **React Router**.
 ---
 
 ##  Live Demo
-Deployed on **Vercel** — [Add your Vercel URL here after deployment](https://vercel.com)
+Deployed on **Vercel** — https://recipe-ideas-neon.vercel.app
 
 ---
 
