@@ -166,6 +166,7 @@ function Home() {
         <input
           type="text"
           value={search}
+          onClick={() => setSelectedMeal(null)}
           onChange={handleChange}
           onKeyDown={handleKeyDown}
           placeholder="Search by meal, ingredient, category, or area..."
